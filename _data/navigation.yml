@@ -1,0 +1,143 @@
+# main links
+main:
+  - title: "The AOT Group"
+    url: /
+  - title: "About AOT"
+    url: /about-aot/
+    # sublinks:
+    # - title: The AOT Group Today
+    #   url: /about-aot/
+    # - title: History
+    #   url: /history/
+    # - title: Values
+    #   url: /values/
+    # - title: Achievements & Awards
+    #   url: /achievements-awards/
+    # - title: AOT Newsroom
+    #   url: /aot-news/
+  - title: "Operating Divisions"
+    url: /operating-divisions/
+    # sublinks:
+    #   - title: "AOT Inbound"
+    #     url: /collection-archive/
+    #   - title: "Australian Online Travel"
+    #     url: /docs/navigation/
+    #   - title: "ATS Pacific"
+    #     url: /docs/ui-text/
+    #   - title: "ETA"
+    #     url: /docs/authors/
+    #   - title: "Accommodation Program Management"
+    #     url: /docs/layouts/
+    #   - title: "Sunlover Holidays"
+    #     url: /docs/layouts/
+    #   - title: "Territory Discoveries"
+    #     url: /docs/layouts/
+  - title: "Contact Us"
+    url: /contact/
+  # - title: "Search"
+  #   url: /search/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  # - title: About
+  #   url: /about.html
+  # - title: Team
+  #   url: /team.html
+  # - title: Contact
+  #   url: /contact.html
+  # - title: Store
+  #   url: /store.html
+  # - title: Support
+  #   url: /support.html
+
+# Footer links
+footer:
+  - title: "Cookie Policy"
+    url: "https://policies.helloworldlimited.com.au/cookies-policy"
+  - title: "Privacy Policy"
+    url: "https://policies.helloworldlimited.com.au/privacy-policy"
+  - title: "Contact Us"
+    url: /contact/
+
+
+# Sidebar nav links
+docs:
+  - title: About AOT
+    children:
+      - title: "The AOT Group Today"
+        url: /#/
+      - title: "History of the AOT Group"
+        url: /history/
+      - title: "Our Values"
+        url: /values/
+      - title: "Our Achievements & Awards"
+        url: /achievements-awards/
+      - title: "AOT Newsroom"
+        url: /aot-news/
+      - title: "Memberships"
+        url: /memberships/
+      - title: "Careers"
+        url: /careers/
+
+ops:
+  - title: Operating Divisions
+    children:
+      - title: "AOT Inbound"
+        url: /collection-archive/
+      - title: "Australian Online Travel"
+        url: /docs/navigation/
+      - title: "ATS Pacific"
+        url: /docs/ui-text/
+      - title: "ETA"
+        url: /docs/authors/
+      - title: "Accommodation Program Management"
+        url: /docs/layouts/
+      - title: "Sunlover Holidays"
+        url: /docs/layouts/
+      - title: "Territory Discoveries"
+        url: /docs/layouts/
+
+brandlogins:
+  - title: Agent Brand Logins
+    children:
+      - title: "AOT Online (Inbound)"
+        image: https://www.aotonline.net/images/AOTinbound_AUSNZSP.png
+        image_alt: "image"
+        url: http://www.aotonline.net/index.php
+      - title: "ETA Online (Inbound)"
+        url: http://www.booketaonline.com/index.php
+      - title: "Sunlover Holidays"
+        url: https://www.agents.sunloverholidays.com.au/index.php
+      - title: "AOT Hotels"
+        url: https://www.aothotels.com.au/login
+      # - title: "Air New Zeland Holidays"
+      #   url: #
+
+brandloginsdocs:
+  - title: Agent Brand Logins
+    children:
+      - title: "AOT Online (Inbound)"
+        url: http://www.aotonline.net/index.php
+      - title: "ETA Online (Inbound)"
+        url: http://www.booketaonline.com/index.php
+      - title: "Sunlover Holidays"
+        url: https://www.agents.sunloverholidays.com.au/index.php
+      - title: "AOT Hotels"
+        url: https://www.aothotels.com.au/login
+      # - title: "Air New Zeland Holidays"
+      #   url: #
+  - title: About AOT
+    children:
+      - title: "The AOT Group Today"
+        url: /#/
+      - title: "History of the AOT Group"
+        url: /history/
+      - title: "Our Values"
+        url: /values/
+      - title: "Our Achievements & Awards"
+        url: /achievements-awards/
+      - title: "AOT Newsroom"
+        url: /aot-news/
+      - title: "Memberships"
+        url: /memberships/
+      - title: "Careers"
+        url: /careers/
