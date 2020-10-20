@@ -25,7 +25,7 @@ url                      : "https://designhlo.github.io"
 baseurl                  : "/aotgroup"
 repository               : "DesignHLO/aotgroup"
 teaser                   : "https://dummyimage.com/500x300/000/fff"
-logo                     : "/assets/images/aot-masthead_logo.png"
+logo                     : "/assets/images/aot-masthead_logo-with-shadow.png"
 masthead_title           : ""
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
