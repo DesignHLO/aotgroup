@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: "Post Archive with Feature Rows"
+title: "AOT Newsroom"
 permalink: /aot-news/
-author_profile: true
+sidebar:
+  nav: "docs"
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"

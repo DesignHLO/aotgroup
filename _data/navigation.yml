@@ -17,21 +17,21 @@ main:
     #   url: /aot-news/
   - title: "Operating Divisions"
     url: /operating-divisions/
-    # sublinks:
-    #   - title: "AOT Inbound"
-    #     url: /collection-archive/
-    #   - title: "Australian Online Travel"
-    #     url: /docs/navigation/
-    #   - title: "ATS Pacific"
-    #     url: /docs/ui-text/
-    #   - title: "ETA"
-    #     url: /docs/authors/
-    #   - title: "Accommodation Program Management"
-    #     url: /docs/layouts/
-    #   - title: "Sunlover Holidays"
-    #     url: /docs/layouts/
-    #   - title: "Territory Discoveries"
-    #     url: /docs/layouts/
+    sublinks:
+      - title: "AOT Inbound"
+        url: /collection-archive/
+      - title: "Australian Online Travel"
+        url: /docs/navigation/
+      - title: "ATS Pacific"
+        url: /docs/ui-text/
+      - title: "ETA"
+        url: /docs/authors/
+      - title: "Accommodation Program Management"
+        url: /docs/layouts/
+      - title: "Sunlover Holidays"
+        url: /docs/layouts/
+      - title: "Territory Discoveries"
+        url: /docs/layouts/
   - title: "Contact Us"
     url: /contact/
   # - title: "Search"
@@ -65,8 +65,8 @@ docs:
     children:
       - title: "The AOT Group Today"
         url: /#/
-      - title: "History of the AOT Group"
-        url: /history/
+      # - title: "History of the AOT Group"
+      #   url: /history/
       - title: "Our Values"
         url: /values/
       - title: "Our Achievements & Awards"
@@ -82,19 +82,31 @@ ops:
   - title: Operating Divisions
     children:
       - title: "AOT Inbound"
-        url: /collection-archive/
-      - title: "Australian Online Travel"
-        url: /docs/navigation/
-      - title: "ATS Pacific"
-        url: /docs/ui-text/
-      - title: "ETA"
-        url: /docs/authors/
-      - title: "Accommodation Program Management"
-        url: /docs/layouts/
-      - title: "Sunlover Holidays"
-        url: /docs/layouts/
-      - title: "Territory Discoveries"
-        url: /docs/layouts/
+        url: /aot-inbound/
+      - title: "Tailormade FIT Operations"
+        url: /fit/
+      - title: "Group Department"
+        url: /groups/
+      - title: "AOT Cruise"
+        url: /cruise/
+      - title: "Fly-Drive Tours"
+        url: /fly-drive/
+      - title: "AOT Online"
+        url: /aot-online/
+      - title: "Who's who at AOT Inbound"
+        url: /team_members/
+      - title: "Our service to you"
+        url: /our-service-to-you/
+      - title: "A suppliers guide to working with AOT"
+        url: /whos-who/
+  - title: Australian Online Travel
+    children:
+      - title: "About Australian Online Travel"
+        url: /australian-online-travel/      
+  - title: Accommodation Program Management
+    children:
+      - title: "About Accommodation Program Management"
+        url: /accommodation-program-management/
 
 brandlogins:
   - title: Agent Brand Logins
@@ -129,8 +141,8 @@ brandloginsdocs:
     children:
       - title: "The AOT Group Today"
         url: /#/
-      - title: "History of the AOT Group"
-        url: /history/
+      # - title: "History of the AOT Group"
+      #   url: /history/
       - title: "Our Values"
         url: /values/
       - title: "Our Achievements & Awards"

@@ -1,0 +1,17 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<img src="{{ team_member.profilepic }}">
+
+{% for team_member in site.team_members %}
+  <h2>
+    <a href="{{ team_member.url }}">
+      {{ team_member.title }}
+      <figcaption>{{ team_member.position }}</figcaption>
+    </a>
+  </h2>
+  <!-- <p>{{ team_member.content | markdownify }}</p> -->
+{% endfor %}

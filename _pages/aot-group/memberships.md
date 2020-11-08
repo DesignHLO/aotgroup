@@ -1,6 +1,8 @@
 ---
-title: "Our Values"
-layout: default
+title: "Memberships"
+layout: archive
 permalink: /memberships/
-author_profile: true
+sidebar:
+  nav: "docs"
 ---
+
