@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "The AOT Group"
 description              : "The AOT Group provides a full range of travel services in the Inbound, Corporate/Government and Leisure sectors throughout Australia, New Zealand and the South Pacific."
 url                      : "https://designhlo.github.io"
-baseurl                  : "/aotgroup_test"
+baseurl                  : ""
 repository               : "DesignHLO/aotgroup_test"
 teaser                   : "https://dummyimage.com/500x300/000/fff"
 logo                     : "/assets/images/aot-masthead_logo-with-shadow.png"
