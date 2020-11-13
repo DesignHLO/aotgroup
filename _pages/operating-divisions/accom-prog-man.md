@@ -3,7 +3,7 @@ layout: archive
 title: "Accommodation Program Management"
 permalink: /accommodation-program-management/
 sidebar:
-  nav: "ops"
+  nav: "apm"
 ---
 
 ### AOT Hotels is the Accommodation Program Manager for the Australian Government

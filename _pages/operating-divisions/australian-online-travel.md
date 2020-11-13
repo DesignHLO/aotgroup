@@ -3,7 +3,7 @@ layout: archive
 title: "Australian Online Travel"
 permalink: /australian-online-travel/
 sidebar:
-  nav: "ops"
+  nav: "aonlinetravel"
 ---
 
 Australian Online Travel (AOLT) is the online B2C division of the AOT Group Limited.

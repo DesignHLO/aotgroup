@@ -19,19 +19,19 @@ main:
     url: /operating-divisions/
     sublinks:
       - title: "AOT Inbound"
-        url: /collection-archive/
+        url: /aot-inbound/
       - title: "Australian Online Travel"
-        url: /docs/navigation/
-      - title: "ATS Pacific"
-        url: /docs/ui-text/
-      - title: "ETA"
-        url: /docs/authors/
+        url: /australian-online-travel/
       - title: "Accommodation Program Management"
-        url: /docs/layouts/
+        url: /accommodation-program-management/
+      - title: "ATS Pacific"
+        url: /ats-pacific/
+      - title: "ETA"
+        url: /eta-online/
       - title: "Sunlover Holidays"
-        url: /docs/layouts/
+        url: /sunlover-holidays/
       - title: "Territory Discoveries"
-        url: /docs/layouts/
+        url: /territory-discoveries/
   - title: "Contact Us"
     url: /contact/
   # - title: "Search"
@@ -65,21 +65,24 @@ docs:
     children:
       - title: "The AOT Group Today"
         url: /#/
-      # - title: "History of the AOT Group"
-      #   url: /history/
+      - title: "History of the AOT Group"
+        url: /history/
       - title: "Our Values"
         url: /values/
       - title: "Our Achievements & Awards"
         url: /achievements-awards/
-      - title: "AOT Newsroom"
-        url: /aot-news/
+      # - title: "AOT Newsroom"
+      #   url: /aot-news/
       - title: "Memberships"
         url: /memberships/
       - title: "Careers"
         url: /careers/
+      - title: "School of St Jude"
+        url: /school-of-st-jude/
 
 ops:
   - title: Operating Divisions
+    # url: /operating-divisions/
     children:
       - title: "AOT Inbound"
         url: /aot-inbound/
@@ -93,20 +96,70 @@ ops:
         url: /fly-drive/
       - title: "AOT Online"
         url: /aot-online/
-      - title: "Who's who at AOT Inbound"
-        url: /team_members/
+      # - title: "Who's who at AOT Inbound"
+      #   url: /team_members/
       - title: "Our service to you"
         url: /our-service-to-you/
       - title: "A suppliers guide to working with AOT"
-        url: /whos-who/
+        url: /working-with-aot-inbound/  
+  # - title: Australian Online 
+  #   url: /australian-online-travel/
+  # - title: Accommodation Program Management
+  #   url: /accommodation-program-management/
+  # - title: ATS Pacific
+  #   url: /ats-pacific/
+  # - title: ETA
+  #   url: /eta-online/
+  # - title: Sunlover Holidays
+  #   url: /sunlover-holidays/
+  # - title: Territory Discoveries
+  #   url: /territory-discoveries/
+
+aonlinetravel:
   - title: Australian Online Travel
     children:
       - title: "About Australian Online Travel"
-        url: /australian-online-travel/      
+        url: /australian-online-travel/ 
+      - title: "What we do"
+        url: /australian-online-travel/what-we-do/
+      - title: "How to work with us"
+        url: /australian-online-travel/working-with-us/  
+      - title: "Affiliate / Distribution Solutions"
+        url: /australian-online-travel/affiliate-distribution-solutions/
+ 
+apm:        
   - title: Accommodation Program Management
     children:
       - title: "About Accommodation Program Management"
         url: /accommodation-program-management/
+
+ats:
+  - title: ATS Pacific
+    children:
+      - title: "About ATS Pacific"
+        url: /ats-pacific/
+
+eta:
+  - title: ETA
+    children:    
+      - title: "About ETA"
+        url: /eta-online/
+    
+slv:
+  - title: Sunlover Holidays
+    children:      
+      - title: "About Sunlover Holidays"
+        url: /sunlover-holidays/
+      - title: "Why Choose Sunlover?"
+        url: /why-sunlover-holidays/
+      - title: "Work with Sunlover?"
+        url: /work-with-sunlover/
+
+td:
+  - title: Territory Discoveries
+    children:
+      - title: "About Territory Discoveries"
+        url: /territory-discoveries/
 
 brandlogins:
   - title: Agent Brand Logins
@@ -141,15 +194,17 @@ brandloginsdocs:
     children:
       - title: "The AOT Group Today"
         url: /#/
-      # - title: "History of the AOT Group"
-      #   url: /history/
+      - title: "History of the AOT Group"
+        url: /history/
       - title: "Our Values"
         url: /values/
       - title: "Our Achievements & Awards"
         url: /achievements-awards/
-      - title: "AOT Newsroom"
-        url: /aot-news/
+      # - title: "AOT Newsroom"
+      #   url: /aot-news/
       - title: "Memberships"
         url: /memberships/
       - title: "Careers"
         url: /careers/
+      - title: "School of St Jude"
+        url: /school-of-st-jude/
