@@ -1,7 +1,7 @@
 ---
 title: "Positions Vacant"
 layout: archive
-permalink: /aotgroup_test/current-positions/
+permalink: /current-positions/
 sidebar:
   nav: "docs"
 ---
