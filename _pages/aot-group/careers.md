@@ -29,4 +29,4 @@ We take time to celebrate our achievements and acknowledge the people who delive
 Established in 1987, the AOT Group is one of Australia's largest and most dynamic travel companies. With over 570 staff across 16 locations worldwide including; Melbourne, Sydney, Canberra, Brisbane, Gold Coast, Auckland, Shanghai, Singapore, Jakarta, Hong Kong, Mumbai, Milan, Munich, Rarotonga, Nadi and London.
 
 
-Want to join our team? View the [current positions vacant](/careers/current-positions/). 
+Want to join our team? View the [current positions vacant](/current-positions/). 
